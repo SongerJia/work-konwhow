@@ -1,20 +1,20 @@
 {
   "format": 1,
-  "rev": 2,
-  "updatedAt": 1792397643604,
+  "rev": 3,
+  "updatedAt": 1792397651694,
   "updatedBy": "043761a1cea745c5a90ebb3a1589c84f",
   "devices": {
     "043761a1cea745c5a90ebb3a1589c84f": {
       "name": "LAPTOP-G5IER639",
-      "lastSync": 1792397643604
+      "lastSync": 1792397651694
     }
   },
   "entries": {
     "25793baa65b1477c9441171cbdd3988b": {
       "path": "01-Java/01-JavaBasic/Readme.md",
-      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 0,
-      "mtime": 1792397482593,
+      "hash": "e9bad247c2f33207e6c828f42c3c73a9135369cdcf9f1ba005de83b9a6d8476c",
+      "size": 403,
+      "mtime": 1792397646456,
       "ltime": 1792397638353,
       "device": "043761a1cea745c5a90ebb3a1589c84f"
     }
