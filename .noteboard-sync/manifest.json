@@ -1,12 +1,12 @@
 {
   "format": 1,
-  "rev": 5,
-  "updatedAt": 1792571724021,
+  "rev": 6,
+  "updatedAt": 1792571880121,
   "updatedBy": "043761a1cea745c5a90ebb3a1589c84f",
   "devices": {
     "043761a1cea745c5a90ebb3a1589c84f": {
       "name": "LAPTOP-G5IER639",
-      "lastSync": 1792571724021
+      "lastSync": 1792571880121
     }
   },
   "entries": {
@@ -40,9 +40,9 @@
     },
     "ac7151da4ed748519b4e2a8498dc780b": {
       "path": "01-Java/01-JavaBasic/00-资深面试必掌握清单.md",
-      "hash": "7217e016b7d1d90208179fd1c04f110bb5b871da2c848e7749f90295da1e2d77",
-      "size": 7385,
-      "mtime": 1792571718175,
+      "hash": "d9d467d06cdc87d47aa6f188c3f03d259896f2b48de82063177b6049daa42da7",
+      "size": 6534,
+      "mtime": 1792571874955,
       "ltime": 1792571723538,
       "device": "043761a1cea745c5a90ebb3a1589c84f"
     }
