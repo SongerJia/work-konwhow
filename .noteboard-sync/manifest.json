@@ -1,21 +1,49 @@
 {
   "format": 1,
-  "rev": 4,
-  "updatedAt": 1792397795107,
+  "rev": 5,
+  "updatedAt": 1792571724021,
   "updatedBy": "043761a1cea745c5a90ebb3a1589c84f",
   "devices": {
     "043761a1cea745c5a90ebb3a1589c84f": {
       "name": "LAPTOP-G5IER639",
-      "lastSync": 1792397795107
+      "lastSync": 1792571724021
     }
   },
   "entries": {
     "25793baa65b1477c9441171cbdd3988b": {
-      "path": "01-Java/01-JavaBasic/Readme.md",
+      "path": ".nb-trash/Readme.md",
       "hash": "f1a55e2f2803f1711ba0658f0690bc79d617284f7367368865b9bfedc8017c38",
       "size": 403,
       "mtime": 1792397789807,
-      "ltime": 1792397638353,
+      "ltime": 1792570249159,
+      "trash": {
+        "orig": "01-Java/01-JavaBasic/Readme.md",
+        "at": 1792570249159
+      },
+      "device": "043761a1cea745c5a90ebb3a1589c84f"
+    },
+    "6c91ed2011324334b1ec6cf9f8922ece": {
+      "path": "01-Java/01-JavaBasic/00-资深面试题源-答案.md",
+      "hash": "95de3c40f098fdf747182b491a0c8b1f59729599280884ce1f169453df9cfe71",
+      "size": 30268,
+      "mtime": 1792571420629,
+      "ltime": 1792571723538,
+      "device": "043761a1cea745c5a90ebb3a1589c84f"
+    },
+    "9f06e8a43e804c698e92085d8a6a2df6": {
+      "path": "01-Java/01-JavaBasic/00-资深面试题源.md",
+      "hash": "eb855f62612a32fa1b567d93ddd8aed4d2df86c6d69211c8150b5d4978a0318b",
+      "size": 13190,
+      "mtime": 1792568682822,
+      "ltime": 1792571723538,
+      "device": "043761a1cea745c5a90ebb3a1589c84f"
+    },
+    "ac7151da4ed748519b4e2a8498dc780b": {
+      "path": "01-Java/01-JavaBasic/00-资深面试必掌握清单.md",
+      "hash": "7217e016b7d1d90208179fd1c04f110bb5b871da2c848e7749f90295da1e2d77",
+      "size": 7385,
+      "mtime": 1792571718175,
+      "ltime": 1792571723538,
       "device": "043761a1cea745c5a90ebb3a1589c84f"
     }
   }
